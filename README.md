@@ -44,7 +44,7 @@ The AI-generated code had four bugs:
 
 ## 📸 Demo
 
-*[Insert a screenshot of your fixed, winning game here]*
+![Game Screenshot](game_screenshot.png-1.png)
 
 ## 🚀 Stretch Features
 
